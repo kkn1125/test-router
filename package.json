@@ -1,5 +1,6 @@
 {
   "name": "basic02",
+  "homepage": "https://kkn1125.github.io/test-router/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
